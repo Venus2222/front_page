@@ -1187,3 +1187,7 @@ table td .description {
     padding-right: 1em;
     background-color: white;
 }
+
+.front-page-list {
+    list-style-type: none;
+}
