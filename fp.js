@@ -1,0 +1,1 @@
+var urlmenuPlanet = document.getElementById('planet'); urlmenuPlanet.onchange = function(){ window.open( this.options[this.selectedIndex].value) };
